@@ -1,0 +1,23 @@
+{
+  "version"           :   "1.1.0",
+  "license"           :   "Copyright by Spotlight",
+  "name"              :   "SpotlightLogWatcher",
+  "pluginIcon"        :   "icon_plugin_xs.png",
+  "authorIcon"        :   "icon_author_xs.png",
+  "email"             :   "lennart@schoenkannjeder.de",
+  "phone"             :   "",
+  "description"       :   "Recieve notifications for log events",
+  "shortDescription"  :   { "de": "SpotlightLogWatcher", "en": "SpotlightLogWatcher" },
+  "namespace"         :   "SpotlightLogWatcher",
+  "author"            :   "Lennart Koppitz",
+  "keywords"          :   ["plentymarkets", "plugins", "layout", "theme", "ceres"],
+  "price"             :   0,
+  "categories"        :   [3518],
+  "type"              :   "theme",
+  "require"           :   ["Ceres"],
+  "serviceProvider"   :   "SpotlightLogWatcher\\Providers\\SpotlightLogWatcherServiceProvider",
+  "marketplaceName"   :   { "de": "Spotlight LogWatch", "en": "Spotlight LogWatch" },
+  "runOnBuild"        : [
+    "SpotlightLogWatcher\\Database\\DatabaseMigration"
+  ]
+}

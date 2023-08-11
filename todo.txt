@@ -1,0 +1,8 @@
+- Button im Backend für Email an Kunden mit ReminderText das das ding noch existiert
+  ( UI Detail von Cart / Modal fenster geht auf mit vorgefertigtem Text )
+  ( Ebenfalls im CartSave Dashboard ein Button um das gleiche zu tun )
+  ( Ebenfalls ein Button um alle in der Aktuellen Ansicht mit der Email zu beglücken )
+- Automatisch Email nach ( EInstellbar / X Wochen / X Tagen whatever ) mit dem gleichen wie oben
+- Zusätzlich die Option eine Gutschein Kampagne zu hinterlegen / Den Code zu generieren und diese der Email beizufügen
+
+- Neuen Menüpunkt mit COnfiguration / Email / Gutschein etc pp

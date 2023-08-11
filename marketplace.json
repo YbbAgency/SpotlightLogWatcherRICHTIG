@@ -1,0 +1,11 @@
+{
+  "marketplaceName"   : {"de":"Spotlight LogWatch", "en":"Spotlight LogWatch"},
+  "license"           : "",
+  "price"             : 0,
+  "subscription"      : [ ],
+  "offerTrial"        : true,
+  "offerFreemium"     : true,
+  "shortDescription"  : {"de":"Spotlight LogWatch","en": "Spotlight LogWatch"},
+  "categories"        : ["4090"],
+  "keywords"          : ["spotlight"]
+}

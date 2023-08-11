@@ -1,0 +1,20 @@
+{
+  "defaultEntryPoint": "index.html",
+  "namespace": "SpotlightLogWatcher",
+  "menuEntries": [
+    {
+      "label": "Spotlight",
+      "menu": "system/settings",
+      "urlKey": "spotlight",
+      "entryPoint": "spotlight.html"
+    },
+    {
+      "label": "Spotlight LogWatcher",
+      "menu": "system/settings/spotlight",
+      "urlKey": "spotlight_log_watcher",
+      "entryPoint": "index.html"
+    }
+
+  ]
+}
+

@@ -1,0 +1,21 @@
+{
+  "sections":
+  [
+    {
+      "name": "MultilingualismConfig.notes",
+      "prefix": "notes"
+    },
+    {
+      "name": "MultilingualismConfig.buttons",
+      "prefix": "buttons"
+    },
+    {
+      "name": "MultilingualismConfig.misc",
+      "prefix": "misc"
+    }
+  ],
+  "ignoredTranslationFiles":
+  [
+    "MultilingualismConfig.properties"
+  ]
+}
